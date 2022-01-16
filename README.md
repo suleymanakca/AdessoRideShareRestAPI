@@ -41,7 +41,9 @@ Kullanıcıların A şehirinden B şehirine şahsi arabaları ile seyehat ederke
 **Metot: GET**
 
 **QueryParams**
+
           nereden string (query)	
+          
           nereye  string (query)
 
 ## Kullanıcılar yayında olan seyehat planlarına "Koltuk Sayısı" dolana kadar katılım isteği gönderebilir
